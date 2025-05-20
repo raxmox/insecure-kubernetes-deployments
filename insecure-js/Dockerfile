@@ -1,4 +1,4 @@
-FROM node:23.9.0
+FROM node:23.11.1
 
 # Create /app directory and set as working directory
 RUN mkdir /app
